@@ -1,0 +1,442 @@
+DESC.def:Định nghĩa của thuyết tiến hóa
+DESC.def:Thế nào gọi là sự nóng lên toàn cầu
+DESC.def:Thế nào gọi là xe máy
+DESC.desc:Con gà trông như thế nào
+DESC.desc:Quả chanh chua như thế nào
+DESC.desc:Con chó sủa như thế nào
+DESC.desc:Con mèo kêu như thế nào
+DESC.reason:Tại sao nên ăn chín uống sôi
+DESC.reason:Tại sao nên đi ngủ sớm
+ENTY.color:Màu đỏ là màu gì
+ENTY.sport:Diện tích sân bóng đá là bao nhiêu
+HUM.desc:Cô ấy có hiếu không
+HUM.desc:Cô ta có học giỏi không
+HUM.desc:Ngoại hình cô ấy như thế nào
+HUM.group:Anh ta và cô ta quen nhau bao lâu rồi
+HUM.group:Sinh viên trường tự nhiên có giỏi không
+HUM.ind:Bạn thích uống cafe nào
+NUM.data:Hôm nay ngày bao nhiêu
+NUM.data: Ngày ra đời của  máy đếm tiền
+ABBR.abb:viết tắt của trung tâm kiểm soát và phòng ngừa dịch bệnh là gì?
+ABBR.exp:cm là viết tắt của gì?
+DESC.def:Nguyệt thực là gì?
+DESC.def:Thuỷ triều là gì?
+DESC.def:trí tuệ nhân tạo là gì
+DESC.def:nghịch lý tiền định là gì?
+DESC.def:hố đen vũ trụ là gì?
+DESC.desc:chuyện gì đã xảy ra với khủng long?
+DESC.desc:nguồn gốc của động cơ hơi nước?
+DESC.reason:tại sao chương trình tàu con thoi bị giải tán?
+DESC.reason:nguyên nhân nội chiến Hoa Kỳ?
+HUM.desc:Ngô Quyền là ai?
+HUM.group:Đội tuyển nào vô địch V-league năm 2019?
+HUM.group:Công ty nào dẫn đầu về doanh thu sữa hiện nay?
+HUM.group:Nước súc miệng Listerine được sản xuất bởi công ty nào?
+HUM.group:Công ty xe hơi được thành lập bởi Elon Musk?
+HUM.group:Hãng thức ăn nhanh nào nổi tiếng với câu khẩu hiệu "Vị ngon trên từng ngón tay"?
+HUM.ind:Ai là người phát minh ra máy hơi nước đầu tiên?
+HUM.ind:Diễn viên chính phim "Đại gia Gatsby" là ai?
+HUM.ind:Người phát hiện ra dây tóc bóng đèn là ai?
+LOC:đỉnh Everest ở đâu?
+LOC.city:thành phố có nhiều hồ nhất cả nước ở đâu?
+LOC.country:làn sóng Hallyu bắt đầu ở nước nào?
+LOC.country:nước nào bị ném bom nguyên tử?
+LOC.country:nguồn gốc của cây cacao từ nước nào?
+LOC.country:Khải Hoàn Môn ở đâu?
+NUM:nhiệt độ cơ thể của người bình thường là bao nhiêu?
+NUM:Trận chiến Waterloo xảy ra khi nào?
+ABBR.abb:liên hợp quốc viết tắt là gì
+ABBR.abb:tổ chức y tế thế giới viết tắt là gì
+ABBR.abb:tổ chức thương mại thế giới viết tắt là gì
+ABBR.abb:tên viết tắt của liên đoàn bóng đá châu á
+ABBR.abb:liên đoàn bóng đá quốc tế viết tắt là gì
+ABBR.exp:wb là tên viết tắt của tổ chức nào
+ABBR.exp:un là viết tắt của từ gì
+ABBR.exp:UNICEF la tên viết tắt của tổ chức nào
+DESC.desc:thuật toán kruskal hoạt động như thế nào
+ENTY:con cáo kêu như thế nào
+ENTY:grammy là giải thưởng về lĩnh vực gì
+ENTY:trái quất có tên nào khác
+HUM.desc:Michael Jordan là ai
+HUM.group:nhà thầu xây dựng landmark 81 là ai
+HUM.group:công ty nào sản xuất chip máy tính
+HUM.ind:Ai là người phát minh ra dòng điện một chiều
+HUM.ind:ai là người phát minh ra điện thoại
+LOC:trường đại học khoa học tự nhiên nằm ở đâu
+LOC:vịnh vĩnh hy ở đâu
+LOC.city:thành phố nào mang tên bác
+LOC.city:thành phố sài gòn gia định đổi tên là gì
+LOC.city:Thành phố lâu đời nhất Việt Nam
+LOC.country:phở là đồ ăn của quốc gia nào
+LOC.country:messi sinh ra ở quốc gia nào
+LOC.country:hoa sen là quốc hoa của nước nào
+NUM.date:sinh nhật của bác hồ là ngày bao nhiêu
+NUM.date:ngày thành lập trường khoa học tự nhiên
+SELECT:ai là người đứng đầu vingroup
+SELECT:tháp landmark 81 cao bao nhiêu
+SELECT:dặm anh là gì
+ABBR.abb:no là viết tắt từ nào
+ABBR.abb:AAA là gì trong alphabet Agencies
+ABBR.abb:i.e là gì
+ABBR.exp:adj có phải là phép tính ma trận
+ABBR.exp:mean là gì
+DESC.def:neuron thần kinh là gì
+DESC.def:GK là vị trí nào trong bóng đá
+DESC.def:sách self help là sách như thế nào
+DESC.def:wikipedia là thư viện gì
+DESC.desc:ghế đẩu là loại ghế được thiết kế như thế nào
+DESC.desc:xe winner X 2020 khác các phiên bản tiền nhiệm ở đâu
+DESC.reason:Mục đích của tiến hóa là gì
+DESC.reason:Mục tiêu để phát triển kinh tế là gì
+DESC.reason:Lý do sự khác biệt giữa các nước với nhau
+ENTY:đá bóng và bơi lội liên quan gì tới nhau
+HUM.desc:hình ảnh chúa Nguyễn thời xưa được mô tả như thế nào
+HUM.group:tổ chức WHO là gì
+HUM.group:tổ chức Nhà nước là gì
+HUM.group:UNESCO là tổ chức nào
+HUM.ind:Ai là ông trùm showbiz Mỹ
+HUM.ind:Đại tướng Võ Nguyên Giáp có ảnh hưởng gì trong cuộc Cách mạng VN 
+LOC:Jerusalem ở đâu
+LOC:Thành phố nổi tiếng nhất Thái Lan nằm ở vùng nào
+LOC.city:Chicago nằm ở đâu
+LOC.city:Tokyo là thành phố của Nhật Bản hay Hàn Quốc
+LOC.country:Quốc gia có tỉ lệ dân số chênh lệch cao nhất thế giới
+LOC.country:Ấn Độ thuộc châu lục nào
+LOC.country:Nước nào có nhiều giải Nobels nhất thế giới
+NUM:hằng số plank có giá trị là gì
+NUM.date:Ngày thành lập Đảng là ngày mấy
+NUM.date:Ngày quốc khánh của Việt Nam là ngày mấy
+DESC.def:Hệ điều hành là gì?
+DESC.desc:Cách chế biến các loại giấm như thế nào?
+DESC.reason:Tại sao ăn chay người ta không uống sữa?
+DESC.reason:Vì sao Việt Nam mưa nhiều?
+DESC.reason:Tại sao bóng đèn điện sáng?
+ENTY:Đâu là môn "thể thao vua"?
+ENTY:Hoa lan thường có màu gì?
+ENTY:Môn thể thao điện tử phổ biến nhất là gì?
+HUM.desc:Bà Huyện Thanh Quan là ai?
+HUM.desc:Trấn Thành là ai?
+HUM.desc:Nguyễn Du là ai?
+HUM.group:Những ai từng lên mặt trăng?
+HUM.group:Những ai sáng lập ra Facebook?
+HUM.ind:Ai hiện là Chủ tịch nước Cộng hoà Xã hội Chủ nghĩa Việt Nam?
+HUM.ind:Ai là nam chính của phim Fifty Shades of Grey?
+HUM.ind:Ai được mệnh danh là ông hoàng nhạc Việt?
+HUM.ind:Ai là người khai sinh ra nước Việt Nam Dân chủ Cộng hoà?
+HUM.ind:Đại tướng có công lớn nhất trong Chiến dịch Điện Biên Phủ là ai?
+LOC:Magma thường có ở đâu?
+LOC:Phố đi bộ Bùi Viện nằm ở đâu?
+LOC.city:Đâu là thành phố lớn nhất của nước Úc?
+LOC.city:Thành phố lớn nhất của miền Trung nước ta là gì?
+LOC.city:Thủ đô nước ta là thành phố nào?
+LOC.city:Đâu là thành phố ngàn hoa?
+LOC.country:Nước nào đông dân nhất thế giới?
+LOC.country:Nước nào rộng lớn nhất thế giới?
+LOC.country:Trà sữa có nguồn gốc từ nước nào?
+NUM:Việt Nam có bao nhiêu thành phố trực thuộc trung ương?
+NUM.date:Ngày thành lập Đoàn là ngày mấy?
+NUM.date:Giáng Sinh vào ngày nào?
+SELECT:Hoa Tulip có độc hay không?
+SELECT:Nước biển có mặn không?
+SELECT:Sao Mộc là hành tinh lớn nhất trong hệ Mặt Trời phải không?
+SELECT:Trà sữa có hại hay không?
+SELECT:Hành tinh gần Trái Đất hơn là sao Hoả hay sao Thuỷ?
+ABBR.abb:Viết tắt của từ "trung ương" là gì?
+ABBR.abb:Hiệp hội các cơ quan quản lý bảo hiểm quốc gia có tên viết tắt là gì?
+ABBR.exp:Trong tiếng Anh
+ABBR.exp:Từ HTML là viết tắt của cụm từ gì?
+DESC.def:Bệnh Pakinson là gì?
+DESC.desc:Mùa đông ở Hà Nội lạnh như thế nào?
+DESC.desc:Làm thế nào người ta chế biến được món đuông dừa?
+DESC.desc:Giải đấu đã diễn ra căng thẳng ra sao?
+DESC.desc:Thế nào là một nhà thông thái?
+DESC.reason:Tại sao nước biển có màu xanh?
+DESC.reason:Vì sao không nên tắm lúc đêm khuya?
+HUM.desc:William Shakespear là ai?
+HUM.desc:Nhà văn Nguyễn Ngọc Tư là ai?
+HUM.group:Bài hát "Day by day" là của nhóm nhạc nữ Hàn Quốc nào?
+HUM.group:Bạn có biết gì về tập đoàn Samsung không?
+HUM.ind:Ai là tác giả của tác phẩm "Cánh đồng bất tận"?
+HUM.ind:Ai là người đã phát minh ra đèn điện?
+HUM.ind:Nghệ sĩ có nhiều fan hâm mộ nhất Việt Nam hiện nay là ai?
+LOC.city:Tỉnh Đồng Nai có thành phố nào?
+LOC.city:Cậu có biết Thủ phủ rượu vang là biệt danh của thành phố nào không?
+LOC.country:Đảo quốc sư tử là biệt danh của đảo quốc nào trên thế giới?
+NUM.date:Chiến tranh Nga-Nhật xảy ra vào thời gian nào?
+SELECT:Có hay không việc Atlantis thực sự tồn tại?
+SELECT:Sau 20 năm nữa Việt Nam có thể được xếp vào hàng ngũ các quốc gia phát triển hay không?
+SELECT:Việc phát hiện ra UFO ở khu vực 51 là có hay không?
+SELECT:Việc chạy đua vũ trang của một quốc gia là nên hay không nên?
+ENTY.animal:Loài chim nào được in trên quốc huy của Hợp chúng quốc Hoa Kỳ?
+ENTY.animal:Con gì thường được gắn với truyền thuyết về ma cà rồng?
+ENTY.plant:Vì để chạy trốn thần Apollo
+ENTY.religion:Tôn giáo nào được xem là quốc giáo của nước ta thời nhà Lý?
+ABBR.abb:Viết tắt của học hàm giáo sư là gì?
+ABBR.abb:Kí hiệu của thuỷ ngân là gì?
+ABBR.exp:TP là viết tắt của gì?
+DESC.def:Lịch sử là gì?
+DESC.def:Thế nào là chất hoạt hoá enzym?
+DESC.def:Thế nào là liên kết hoá học?
+DESC.desc:Nguồn gốc của con người từ đâu?
+DESC.desc:Mực viết được làm từ gì?
+DESC.desc:Tác hại của tia UV là gì?
+ENTY:Bộ phận nào cho không khí đi vào cơ thể?
+ENTY:Ngôn ngữ nào có số người nói nhiều nhất?
+HUM.desc:Lê Duẩn là ai?
+HUM.group:Duy Tân hội có mục tiêu gì?
+HUM.group:Tập đoàn Google là tập đoàn gì?
+HUM.group:Liên minh châu Âu có mục tiêu gì?
+HUM.ind:Nhà hoạt động cách mạng nào có bí danh anh Tô?
+LOC:Sông nào có diện tích lớn nhất thế giới?
+LOC:Việt Nam thuộc châu nào?
+LOC.city:Thủ đô của Pháp là thành phố nào?
+LOC.city:Thành phố nào đặt theo tên của Chủ tịch nước đầu tiên của Việt Nam Dân chủ Cộng hoà?
+LOC.country:Đường biên giới phía Bắc Việt Nam giáp với nước nào?
+LOC.country:Thomas Edison là người nước nào?
+NUM:Thế chiến thứ nhất kéo dài trong bao lâu?
+NUM:Sắt có mấy hoá trị?
+NUM:Khoảng cách từ Hà Nội đến Hồ Chí Minh là bao xa?
+NUM.date:Bác Hồ ra đi tìm đường cứu nước vào ngày nào?
+NUM.date:Vụ ném bom nguyên tử xuống Hiroshima và Nagasaki vào ngày nào?
+NUM.date:Việt Nam gia nhập WTO vào ngày nào?
+SELECT:Việt Nam có thuộc ASEAN không?
+ABBR.abb:Máy chơi trò chơi điện tử tại gia Super Nintendo Entertainment System thường được viết tắt như thế nào?
+ABBR.abb:Nhà Xuất Bản thường được rút gọn như thế nào?
+ABBR.exp:LHQ viết tắt cho cái gì?
+DESC.def:Tình trạng bảo tồn là gì?
+DESC.def:Họ Trâu bò là gì?
+DESC.desc:Các màu trong Quốc kỳ Saint Vincent và Grenadines tượng trưng cho gì?
+DESC.desc:Lá cây nào xuất hiện trên quốc kì Canada?
+DESC.desc:Sao vàng trên quốc kì Việt Nam mang ý nghĩa gì?
+DESC.reason:Làm sao mà kim loại dẫn điện được?
+DESC.reason:Tại sao các tờ tiền có kích thước khác nhau?
+ENTY:Rau câu được làm từ gì?
+HUM.group:Kể tên chuỗi siêu thị lớn nhất Việt Nam
+HUM.ind:Chủ tịch nước Việt Nam là ai?
+HUM.ind:Ai là tác giả của câu chuyện "Bạch tuyết và bảy chú lùn"?
+HUM.ind:Ai là chủ tịch Quốc hội Việt Nam?
+HUM.ind:Kể tên một ca sĩ người Việt
+HUM.ind:Ai sở hữu tập đoàn Vingroup?
+LOC:Thánh địa Hồi giáo nằm ở đâu?
+LOC:Cực bắc của Việt Nam nằm ở đâu?
+LOC:Dinh Độc Lập nằm ở đâu?
+LOC.city:Thủ đô của Hoa Kì là thành phố nào?
+LOC.city:Thành phố nào đông dân nhất thế giới?
+LOC.city:Cầu Cổng Vàng nằm ở thành phố nào?
+LOC.country:Nước nào có quốc kì là hình mặt trời mọc?
+NUM:Nhà soạn nhạc Beethoven mất vào năm nào?
+NUM.date:Việt Nam thông qua Hiến pháp đầu tiên vào ngày nào?
+NUM.date:Bóng đèn được phát minh vào năm nào?
+NUM.date:Tết Nguyên Đán năm 2022 rơi vào ngày nào?
+SELECT:Trái đất có bao giờ đâm vào mặt trời không?
+SELECT:Con người có thể không ngủ không?
+SELECT:Người da đỏ có sống ở Việt Nam không?
+ABBR.abb:Ngân hàng "Sài Gòn Thường Tín" có tên viết tắt là gì?
+ABBR.abb:"Tổ chức Thương mại Thế giới" viết tắt là gì?
+ABBR.abb:Đài truyền hình Việt Nam gọi tắt là gì?
+ABBR.abb:BTW là viết tắt của từ gì trong tiếng anh?
+ABBR.exp:Tên đầy đủ của ngân hàng BIDV là gì?
+DESC.def:Đường trung tuyến là gì?
+DESC.desc:Người theo chủ nghĩa duy vật tin vào điều gì?
+DESC.desc:Sự khác nhau giữa tự dưỡng và dị dưỡng là gì?
+DESC.reason:Tại sao không nên uống sữa khi đói?
+ENTY:Cuốn sách nào bán chạy nhất thế giới?
+ENTY:Quả táo khi chín có màu gì?
+ENTY:Nguyên tố cấu tạo nên phân tử nước là gì?
+HUM.desc:Jack Ma là ai?
+HUM.group:Đội bóng nào vô địch cúp c1 nhiều nhất?
+HUM.ind:Ai là người phát minh ra bóng đèn?
+HUM.ind:Người phụ nữ đầu tiên nhận giải nobel là ai?
+LOC:Nơi nào có nhiệt độ cao nhất trên trái đất?
+LOC.city:Thành phố cảng lớn nhất Việt nam là gì?
+LOC.city:Tượng Nữ thần tự do nằm ở thành phố nào?
+LOC.city:Đại học Harvard ở thành phố nào?
+LOC.country:Dịch bệnh Corona bắt nguồn đầu tiên tại nơi nào?
+LOC.country:Đất nước nào được mệnh danh là xứ sở hoa anh đào?
+NUM:Có bao nhiêu loài hoa lan trên thế giới?
+NUM:Có bao nhiêu loại hình công ty?
+SELECT:Cây đa là rễ cọc hay rễ chùm?
+NUM:Tổng đốc Hoàng Diệu đã chỉ huy cuộc chiến đấu chống sự xâm lược Hà Nội lần thứ mấy của thực dân Pháp?
+ENTY:Con vật nào chạy nhanh nhất trong giới động vật?
+ENTY:Con nào lặn sâu nhất trong giới động vật?
+ENTY:Con nào có cổ dài nhất?
+Select:Đồi thuộc dạng địa hình núi già hay trẻ? 
+Select:Sao hỏa có mưa hay không?
+Select:Quê cậu mùa đông có tuyết rơi hay không?
+LOC.country:Nước nào giàu nhất thế giới?
+LOC.city:Thành phố nào có bãi biển đẹp nhất Việt Nam?
+DESC.reason:Vì sao ngày nào mặt trời cũng mọc?
+DESC.reason:Tại sao con rết lại sợ con gà?
+DESC.def:Tam giác vuông là gì?
+DESC.def:Tư duy phản biện là gì?
+HUM.group:Tổ chức thương mại thế giới tên gọi là gì?
+HUM.group:Cơ quan hàng không vũ trụ Hoa Kì tên gọi là gì?
+LOC:Bãi biển nào đẹp nhất thế giới nằm ở đâu?
+LOC:Ngọn núi cao nhất Nhật Bản là gì?
+HUM.ind:Bạn nghĩ như thế nào việc ở kí túc xá?
+HUM.ind:Quan điểm của bạn về việc học tiếng Trung?
+HUM.desc:Tính cách của cô ấy như nào?
+ABBR.exp:HIV là viết tắt của hội chứng gì?
+ABBR.exp:UN là viết tắt của cái gì?
+ABBR.abb:Tên viết tắt của tổ chức phát triển luật quốc tế là gì?
+ABBR.abb:Tên viết tắt của tổ chức mậu dịch quốc tế là gì?
+ABBR.abb:Tên viết tắt của tổ chức giáo dục khoa học và văn hóa là gì?
+ABBR.abb:Nasa là tên viết tắt của cơ quan nào của mỹ?
+ABBR.abb:Tên viết tắt của liên đoàn bóng đá đông nam á?
+ABBR.exp:Ascii là viết tắt của chữ gì?
+DESC.def:Aids là gì?
+DESC.def:Ascii là gì?
+DESC.def:Công nghiệp hóa là gì?
+DESC.def:Sóng hấp dẫn là gì?
+ENTY:Album đầu tay của adele tên gì?
+ENTY:Tên chính thức của na uy là gì?
+HUM.desc:Tây thi là ai?
+HUM.ind:Ai phát minh ra cột thiên lôi?
+HUM.ind:Ai sáng tạo ra bảng chữ cái dành cho người mù?
+HUM.ind:Tổng thống hoa kỳ nào được bầu hơn hai nhiệm kỳ?
+LOC:Chùm ngây có xuất xứ từ đâu?
+LOC:Quần đảo cát bà nằm ở đâu?
+LOC:Sơn la nằm ở đâu?
+LOC.city:Cầu Long Biên ở đâu?
+LOC.city:Chùa một cột ở đâu?
+LOC.city:Thầy Nguyễn Đình Chiểu quê ở đâu?
+LOC.country:Black pink là nhóm nhạc của nước nào?
+LOC.country:Nền văn minh aztec ra đời ở nước nào?
+NUM:Cacbon có bao nhiêu hình dạng?
+NUM:John Cena có bao nhiêu lần giữ đai WWE Championship?
+NUM.date:Đế quốc mông cổ tồn tại khoảng thời gian nào?
+NUM.date:Hồ ngọc hà giành giải nữ ca sĩ được yêu thích nhất vào năm nào?
+NUM.date:Sinh nhật của park bo gum là ngày nào?
+NUM.date:Thế vận hội hiện đại được tổ chức lần đầu tiên vào thời gian nào?
+ABBR.abb:Viết tắt của tổ chức kinh tế thế giới là gì?
+ABBR.abb:Từ viết tắt cho cơ quan tình báo quốc gia Việt Nam là gì?
+ABBR.exp:RAM viết tắt của từ gì?
+ABBR.exp:S.O.S là viết tắt cho điều gì?
+ABBR.exp:CNN là cách viết ngắn gọn của điều gì?
+DESC.def:Bảng Anh là gì?
+DESC.def:Đông trùng hạ thảo là gì?
+DESC.def:Bánh donut là bánh gì?
+ENTY:Tôn giáo chính ở Bangladesh là gì?
+ENTY:ppm là đơn vị đo gì?
+HUM.desc:Bạn có thể nói với tôi những gì về Taylor Swift?
+HUM.desc:Steve Job là ai?
+HUM.group:Nhóm người nào được mang tới Mỹ Châu và bán làm nô lệ?
+LOC.country:Hãng lốp xe ô tô Bridgestone là của nước nào?
+LOC.country:Đất nước nào hạnh phúc nhất thế giới trong đại dịch Covid-19?
+LOC.country:Quốc gia nào 'miễn nhiễm Covid', từ chối vaccine?
+NUM:Dân số của Bangladesh đứng thứ mấy trên thế giới?
+SELECT:Phở miền Bắc hay miền Nam ngon hơn?
+ABBR.abb:Viết tắt của Việt Nam là gì?
+ABBR.abb:Viết tắt của cựu chiến binh?
+DESC.def:Hoa hải đường là hoa gì?
+DESC.def:Thế nào gọi là mọt sách?
+DESC.desc:Dùng máy học để làm gì?
+DESC.desc:Dùng máy tính để làm gì?
+DESC.desc:Đá từ đâu mà ra?
+DESC.desc:Chuyện gì xảy ra vào năm 1999?
+DESC.reason:Tại sao nước lại trong suất?
+ENTY:Tiếng kêu quạc quạc là của con gì?
+ENTY:Con gì đang tuyệt chủng?
+HUM.ind:Ai là người phát minh ra máy tính?
+LOC:Vị trí nào đẹp để xây nhà?
+LOC:Nơi nào lạnh nhất?
+LOC.city:Thành phố nào có công nghệ phát triển nhất?
+LOC.country:Nước nào trong Châu Á phát triển nhất?
+LOC.country:Nước nào có nhiều người nước ngoài nhất?
+LOC.country:Quốc gia nào giàu nhất?
+NUM:Có bao nhiêu chữ cái trên bàn phím máy tính?
+NUM:Mất bao nhiêu năm để phân huy bọc ni lon?
+NUM:Mấy năm thì có một năm nhuận?
+NUM:Có bao nhiêu người trên thế giới?
+NUM.date:Ngày 16/9/2020 chuyển qua âm lịch là ngày mấy?
+NUM.date:Bác Hồ mất năm mấy?
+SELECT:Mặt trời có chiếu tới sao diêm vương không?
+SELECT:Có nên tắm khi nhiệt độ là 20 độ không?
+SELECT:Bỏ muối vào bánh ngọt là cách làm đúng hay sai?
+SELECT:Dùng máy tính nhiều là tốt hay xấu?
+ABBR.abb:Điện xoay chiều viết tắt là gì?
+ABBR.exp:CMT8 là viết tắt của từ gì?
+ABBR.exp:NG trên xe tải là viết tắt của từ gì?
+DESC.def:Ngày lễ tình nhân trắng là gì?
+DESC.desc:Điều gì đã xảy ra Trong chiến tranh biên giới Việt-Trung?
+DESC.desc:Thủ tục để làm thẻ ngân hàng như thế nào?
+DESC.desc:Làm sao để mua vé máy bay qua mạng?
+DESC.desc:Phong Nha - Kẻ Bàng được hình thành như thế nào?
+DESC.reason:Tại sao người Ai Cập cạo lông mày?
+DESC.reason:Vì sao người Ai cập cổ đại lại tôn sùng loài mèo?
+DESC.reason:Tại sao đóng bảo hiểm y tế là bắt buộc?
+DESC.reason:Vịnh Hạ Long được xem là một trong bảy kỳ quan thế giới là do đâu?
+ENTY:Hút thuốc lá ảnh hưởng tới bộ phần nào trên cơ thể con người?
+ENTY:Món ăn nổi tiếng nhất nước Việt Nam là gì?
+HUM.desc:Ông Trịnh Xuân Thanh là ai?
+HUM.desc:Stephen Hawking là người nào?
+HUM.ind:Ai được gọi là “Nhà lãnh tụ vĩ đại” của Việt Nam?
+HUM.ind:Người sáng tạo ra Đạo Phật là ai?
+HUM.ind:Ai là chủ nhân của bức hoạ Mona Lisa
+HUM.ind:Nữ hoàng nội y là ai?
+LOC:Thác Bản Giốc toạ lạc tại vị trí nào Việt Nam?
+LOC:Ở đâu có bán người yêu?
+LOC.city:Kênh đào suez nằm ở thành phố nào?
+NUM:Số lượng quốc gia đã được công nhận trên thế giới?
+NUM:Trung bình một đời người gặp gỡ bao nhiêu con người?
+NUM.date:Ngày Bác Hồ tuyên ngôn độc lập là ngày bao nhiêu?
+NUM.date:Ngày cá tháng tư là ngày nào?
+SELECT:Khoa CNTT trường DHKHTN đào tạo 4 hay 5 năm?
+SELECT:Liệu rằng cố gắng có đủ để thành công không?
+SELECT:Ngủ trễ có hại cho sức khoẻ không?
+ABBR.abb:Tên viết tắt của Đông Nam Á ?
+ABBR.abb:Tên viết tắt của Hội Đồng Bảo An Liên Hợp Quốc là gì ?
+ABBR.abb:Tên viết tắt của liên đoàn cầu lông là gì ?
+ABBR.exp:HTML là viết tắt của ?
+DESC.def:Khối cầu dyson là gì ?
+DESC.desc:Lá cây đã làm gì với CO2 hấp thu được ?
+DESC.desc:Bụi bặm gây ảnh hưởng gì đến phổi của chúng ta ?
+DESC.desc:Cấu hình tối thiểu để chơi Liên Minh Huyền Thoại ?
+DESC.reason:Tại sao rượu lại có thể cháy ?
+ENTY:Loại thực phẩm gì được tiêu thụ nhiều nhất ở Viện Nam ?
+ENTY:Cây nào cao nhanh nhất trên thế giới ?
+HUM.desc:Ai là Võ Thị Sáu ?
+HUM.desc:Nguyễn Du là ai ?
+HUM.desc:Ai là Abraham Lincoln ?
+HUM.desc:Ai là Doctor Strange trong MCU ?
+HUM.desc:Ai là Võ Nguyên Giáp ?
+HUM.group:Cơ quan chống khủng bố Hoa Kỳ ?
+HUM.ind:Người nào nắm ký lục chạy nhanh nhất thế giới ?
+HUM.ind:Người phát hiện châu mỹ đầu tiên là ai ?
+LOC:Vị trí xây dựng đập Hoà Bình ?
+LOC.city:Thành Phố cao nhất thế giới là thành phố nào ?
+LOC.country:Đất nước được coi là an toàn bậc nhất ?
+NUM:Theo pháp luật Việt Nam, một người có thể có bị phạt nhiều nhất bao nhiêu năm tù về tội giết người ?
+NUM.date:Ngày sinh Bác Hồ ?
+NUM.date:Ngày phóng thành công tiên lửa đầu tiên trên thế giới ?
+SELECT:Toà nhà Landmark 81 có thể chịu được động đất không ?
+ABBR.abb:Trong Tiếng Anh “MR”,“MRS” là dạng viết tắt của từ đầy đủ gì?
+ABBR.abb:“HDD” - tên đầy đủ của nó?
+ABBR.exp:Thuật ngữ đầy đủ của “ICMP”?
+ABBR.exp:Tên đầy đủ của mạng “LAN”?
+DESC.def:Định nghĩa về đại số tuyến tính?
+DESC.def:Khái niệm về hệ thống thông tin?
+DESC.desc:Thiết kế kỉ thuật điện thoại gaming RED MAGIC 6?
+DESC.desc:Mô tả thiết kế của máy bay phản lực F-35 Lightning II?
+DESC.reason:Cách thức quản lí thư viện của một người quản lí giỏi?
+DESC.reason:Nguyên lí hoạt động máy nước nóng lạnh?
+DESC.reason:Cách thức để train một mô hình máy học?
+HUM.desc:Mắt của Người Châu Âu có gì khác biệt so với Châu Á?
+HUM.group:Băng đảng xã hội đen nào khét tiếng nước Ý?
+HUM.group:Tổ chức lưu manh học đường ở Thái Lan hoạt động ra sao?
+HUM.group:Băng đảng buôn người xuyên quốc gia nào lớn Đông Nam Á?
+HUM.ind:Tướng quân nào tài giỏi nhât trong sự nghiệp mở mang bờ cõi về phía Nam của nước ta?
+LOC:Vị trí nhà tù nào nguy hiểm nhất thế giới?
+LOC.city:Thiên đường ẩm thực lớn nhất thê giới thuộc về thành phố nào?
+LOC.country:Nhật Bản có vùng nông thôn hay không?
+LOC.country:Quốc gia nào có nhiều sông ngòi nhất thế giới?
+NUM:Số tàu ngầm của quân đội Việt Nam năm 2021?
+NUM:Bình Dương có bao nhiêu khu công nghiệp?
+NUM:Dân số của Việt Nam năm 2021?
+NUM:Hà Nội có bao nhiêu tòa nhà cao tầng?
+NUM.date:Ngày Độc Lập Tự Do thông nhất đất nước Việt Nam?
+NUM.date:Ngày sinh nhật của Bác Hồ kính yêu?
+NUM.date:Tỉnh Bình Dương có 3 thành phố vào ngày mấy?
+NUM.date:Ngày thành lập trường Đại Học Khoa Học Tự Nhiên?
+NUM.date:Chiến Thắng Điện Biên Phủ trên không lừng lẫy năm châu vào ngày mấy?
+NUM.date:Ca mắc Covid-19 đầu tiên trên thế giới vào ngày nào?

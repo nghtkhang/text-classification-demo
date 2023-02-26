@@ -1,0 +1,10 @@
+Class: {'SELECT', 'ENTY', 'NUM', 'LOC', 'DESC', 'HUM', 'ABBR'}
+Accuracy: 0.8640350877192983
+Best score= 0.8738521752220383
+with parameter:
+clf__C: 2.0
+tfidf__use_idf: False
+vect__ngram_range: (1, 2)
+The SVM model is saved in  C:\models\svm_text_cls
+
+
